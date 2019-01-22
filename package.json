@@ -1,0 +1,23 @@
+{
+  "name": "@sebacruz/paper-size",
+  "version": "0.0.0",
+  "description": "Returns dimensions for given paper size",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebacruz/paper-size.git"
+  },
+  "author": "Sebastian Cruz <sebacruzcode@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sebacruz/paper-size/issues"
+  },
+  "homepage": "https://github.com/sebacruz/paper-size#readme"
+}
